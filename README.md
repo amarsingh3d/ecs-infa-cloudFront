@@ -253,3 +253,4 @@ or in the "license" file accompanying this file. This file is distributed on an 
 
 
 # How to Provision ECS Infra using Cloud Fromation
+Semiannual update - Fri Nov 15 12:42:51 UTC 2024
